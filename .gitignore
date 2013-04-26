@@ -2,5 +2,9 @@ bin
 src
 develop-eggs
 parts
+coverage
+report
+htmlcov
 .mr.developer.cfg
 .installed.cfg
+.coverage
